@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/21f4c747-7f2f-47a0-b61e-e4febe290399/deploy-status)](https://app.netlify.com/sites/kf-pet-adoption/deploys)
 # Katy's Pet Adoptions
-[Imgur](https://i.imgur.com/wxfJdyh.png)
+![Imgur](https://i.imgur.com/wxfJdyh.png)
 ## Overview
 Katy's Pet Adoptions allows users to find a pet they'd like to adopt. It allows the user to filter by the type of pet desired: cat, dino, or dog.  The user is able to filter results using buttons at the top of the applications and view the available pets by the ones they'd like to see most. 
 
